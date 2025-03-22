@@ -1,0 +1,15 @@
+mx6ull_alientek_emmc.c:783:6:do_enable_parallel_lcd	8	static
+mx6ull_alientek_emmc.c:246:5:power_init_board	0	static
+mx6ull_alientek_emmc.c:327:5:dram_init	8	static
+mx6ull_alientek_emmc.c:450:5:board_mmc_get_env_dev	0	static
+mx6ull_alientek_emmc.c:458:5:mmc_map_to_kernel_blk	0	static
+mx6ull_alientek_emmc.c:466:5:board_mmc_getcd	8	static
+mx6ull_alientek_emmc.c:498:5:board_mmc_init	16	static
+mx6ull_alientek_emmc.c:578:5:board_usb_phy_mode	0	static
+mx6ull_alientek_emmc.c:586:5:board_ehci_hcd_init	0	static
+mx6ull_alientek_emmc.c:696:5:board_eth_init	8	static
+mx6ull_alientek_emmc.c:734:5:board_phy_config	24	static
+mx6ull_alientek_emmc.c:821:5:board_early_init_f	8	static
+mx6ull_alientek_emmc.c:828:5:board_init	8	static
+mx6ull_alientek_emmc.c:870:5:board_late_init	8	static
+mx6ull_alientek_emmc.c:894:5:checkboard	8	static
